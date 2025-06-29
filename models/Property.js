@@ -19,18 +19,6 @@ const PropertySchema = new Schema(
       type: String,
     },
     location: {
-      // street: {
-      //   type: String,
-      // },
-      // city: {
-      //   type: String,
-      // },
-      // state: {
-      //   type: String,
-      // },
-      // zipcode: {
-      //   type: String,
-      // },
       district: {
         type: String,
       },
@@ -41,10 +29,6 @@ const PropertySchema = new Schema(
         type: String,
       },
     },
-    // beds: {
-    //   type: Number,
-    //   required: true,
-    // },
     rooms: {
       type: Number,
       required: true,
@@ -62,26 +46,15 @@ const PropertySchema = new Schema(
         type: String,
       },
     ],
-    // rates: {
-    //   nightly: {
-    //     type: Number,
-    //   },
-    //   weekly: {
-    //     type: Number,
-    //   },
-    //   monthly: {
-    //     type: Number,
-    //   },
-    // },
-      age: {
-        type: Number,
-      },
-      rent: {
-        type: Number,
-      },
-      rate: {
-        type: Number,
-      },
+    age: {
+      type: Number,
+    },
+    rent: {
+      type: Number,
+    },
+    rate: {
+      type: Number,
+    },
     seller_info: {
       name: {
         type: String,
