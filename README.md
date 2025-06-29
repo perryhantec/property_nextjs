@@ -7,11 +7,11 @@
 
 # Other tools
 - cloudinary (store images)
-- goole cloud platform (google login and google map)
+- google cloud platform (google login and google map)
 - mapbox (google map marker)
 
 # Main functions
-- Oauth login and sign up (Google)
+- Oauth login and sign up (google)
 - Search property
 - Share property
 - Pagination
