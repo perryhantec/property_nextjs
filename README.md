@@ -12,6 +12,7 @@
 
 # Main functions
 - Oauth login and sign up (google)
+- Responsive
 - Search property
 - Share property
 - Pagination
