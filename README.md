@@ -10,7 +10,7 @@
 - goole cloud platform (google login and google map)
 - mapbox (google map marker)
 
-# Function
+# Main functions
 - Oauth login and sign up (Google)
 - Search property
 - Share property
