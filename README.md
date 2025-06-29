@@ -20,3 +20,6 @@
 - Bookmark property (after login)
 - Send message to other user (after login and two different google accounts required)
 - Mark as read (or unread) and delete message (after login)
+
+# Reminder:
+All data, images and contents in the website are unreal or expired. The main purpose of this website is to showcase next.js development technology.
