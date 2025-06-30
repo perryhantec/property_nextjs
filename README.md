@@ -5,12 +5,12 @@
 - Next.js
 - MongoDB (Altas)
 
-# Other tools
+# Other Tools
 - cloudinary (store images)
 - google cloud platform (google login and google map)
 - mapbox (google map marker)
 
-# Main functions
+# Features
 - Oauth login and sign up (google)
 - Responsive
 - Search property
@@ -22,5 +22,5 @@
 - Send message to other user (after login and two different google accounts required)
 - Mark as read (or unread) and delete message (after login)
 
-# Reminder:
+# Reminder
 All data, images and contents in the website are unreal or expired. The main purpose of this website is to showcase next.js development technology.
